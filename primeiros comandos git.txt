@@ -1,0 +1,5 @@
+git init = iniciar o git
+git status = mostra quais arquivos foram incluídos no controle de versão
+git add "nome do arquivo" = adicionar o arquivo no git
+git add . = adiciona todos os arquivos pendentes de varios formatos
+git commit -m = versionar o código 
